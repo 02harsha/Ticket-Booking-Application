@@ -1,5 +1,5 @@
 # Ticket-Booking-Application
-# Ticket Booking Application
+
 
 A feature-rich ticket booking application built with the MERN stack, enabling users to seamlessly search, book, and manage tickets for events, movies, or travel. The application focuses on providing a user-friendly interface and robust backend for reliable performance.
 
